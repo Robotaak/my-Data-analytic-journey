@@ -6,3 +6,10 @@ here i am describing my my journey from zero to becoming an expert in data analy
 - Finding: Government segment = 73% of total profit ($11.3M)
 - Finding: Enterprise segment critically underperforming ($162K)
 - Status: ✅ Complete
+## 📅 Day 2 — June 2, 2026
+- Built 3 professional business charts using Matplotlib
+- Chart 1: Profit by Segment (bar chart with value labels)
+- Chart 2: Monthly Profit Trend (line chart with fill)
+- Chart 3: Profit by Product (horizontal bar)
+- Exported all 3 as .png — portfolio ready
+- Status: ✅ Complete
