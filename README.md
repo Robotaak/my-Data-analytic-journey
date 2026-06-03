@@ -1,4 +1,4 @@
-[Day3_AutoCleaner.ipynb](https://github.com/user-attachments/files/28538152/Day3_AutoCleaner.ipynb)
+
 # my-Data-analytic-journey
 here i am describing my my journey from zero to becoming an expert in data analytics
 
@@ -27,3 +27,4 @@ here i am describing my my journey from zero to becoming an expert in data analy
 - Works on ANY CSV file — not dataset-specific
 - Output: clean CSV + printed summary report
 - Status ✅ Complete
+[Day3_AutoCleaner.ipynb](https://github.com/user-attachments/files/28538152/Day3_AutoCleaner.ipynb)
