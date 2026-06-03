@@ -16,3 +16,10 @@ here i am describing my my journey from zero to becoming an expert in data analy
 <img width="1500" height="900" alt="profit_by_segment" src="https://github.com/user-attachments/assets/581ab1ce-1e18-4cf8-bf3d-ca0417a2618b" />
 <img width="1500" height="750" alt="monthly_trend" src="https://github.com/user-attachments/assets/ea3e97af-466c-4bca-a887-05b83caed745" />
 <img width="1500" height="750" alt="profit_by_product" src="https://github.com/user-attachments/assets/75e523a6-0566-4489-be6f-a13e7dfce0f3" />
+## 📅 Day 3 — June 3, 2026
+- Built reusable auto-cleaner function: clean_csv()
+- Auto-detects money columns (70% threshold logic)
+- Fixes: column names, duplicates, nulls, data types
+- Works on ANY CSV file — not dataset-specific
+- Output: clean CSV + printed summary report
+- Status: ✅ Complete
