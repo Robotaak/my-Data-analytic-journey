@@ -25,3 +25,15 @@ here i am describing my my journey from zero to becoming an expert in data analy
 - Output: clean CSV + printed summary report
 - Status ✅ Complete
 
+#### 📅 Day 4 — June 4 | Seaborn Professional Charts
+- Styled bar chart, heatmap (segment × country), box plot
+- Key insight: Channel Partners = most reliable segment
+- Key insight: Enterprise = near-zero profit, high resource cost
+
+---
+
+## 🛠️ Skills Acquired
+- Pandas: loading, cleaning, groupby, pivot tables
+- Matplotlib: bar, line, horizontal bar charts
+- Seaborn: styled charts, heatmaps, box plots
+- GitHub: version control, portfolio management
