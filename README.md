@@ -37,3 +37,11 @@ here i am describing my my journey from zero to becoming an expert in data analy
 - Matplotlib: bar, line, horizontal bar charts
 - Seaborn: styled charts, heatmaps, box plots
 - GitHub: version control, portfolio management
+
+#### 📅 Day 5 — June 5 | Full Client Report
+- Combined all Week 1 skills into one deliverable
+- Executive summary: revenue, profit margin, top/weak segments
+- 3-chart combined figure (segment, monthly trend, country)
+- Written analyst insights with recommendations
+- Output: client_report_charts.png
+- Status: ✅ Week 1 Complete
