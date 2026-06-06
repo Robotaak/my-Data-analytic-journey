@@ -45,3 +45,12 @@ here i am describing my my journey from zero to becoming an expert in data analy
 - Written analyst insights with recommendations
 - Output: client_report_charts.png
 - Status: ✅ Week 1 Complete
+
+#### 📅 Day 6 — June 6 | NumPy + Statistics
+- Statistical summary: mean, median, std, percentiles
+- Key finding: Mean ($25K) vs Median ($9K) gap reveals
+  over-reliance on few big deals
+- Month-over-month growth analysis: avg +26.4% but
+  volatile (-57.8% Nov, +120.6% Sep)
+- Segment vs average: Enterprise -93.6%, Small Business +64.1%
+- Status: ✅ Complete
